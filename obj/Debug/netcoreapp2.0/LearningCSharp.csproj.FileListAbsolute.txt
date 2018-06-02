@@ -1,0 +1,11 @@
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.deps.json
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.runtimeconfig.json
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.runtimeconfig.dev.json
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.dll
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.pdb
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.csprojResolveAssemblyReference.cache
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.csproj.CoreCompileInputs.cache
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.AssemblyInfoInputs.cache
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.AssemblyInfo.cs
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.dll
+/Users/andrew/Documents/Development/C#/LearningC#/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.pdb
