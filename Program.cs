@@ -21,8 +21,9 @@ namespace LearningCSharp
             /* var result = Calculator.Add(4, 5);
              Console.WriteLine(result); */
 
-            var arrays = new DataTypes();
-            arrays.Arrays();
+            var dataTypes = new DataTypes();
+            // dataTypes.Arrays();
+            dataTypes.Strings();
 
         }
       
