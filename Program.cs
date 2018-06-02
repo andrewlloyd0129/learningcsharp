@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using LearningCSharp.LearningClasses;
+using LearningCSharp.MiscItems;
 
 namespace LearningCSharp
 {
@@ -17,8 +18,11 @@ namespace LearningCSharp
             andrew.LastName = "Lloyd";
             andrew.Introduce(); */
 
-            var result = Calculator.Add(4, 5);
-            Console.WriteLine(result);
+            /* var result = Calculator.Add(4, 5);
+             Console.WriteLine(result); */
+
+            var arrays = new DataTypes();
+            arrays.Arrays();
 
         }
       
