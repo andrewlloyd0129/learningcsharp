@@ -1,6 +1,13 @@
 ﻿using System;
 namespace LearningCSharp.MiscItems
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
+
     public class DataTypes
     {
         public void Arrays()

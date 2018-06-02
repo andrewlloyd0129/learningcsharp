@@ -21,10 +21,20 @@ namespace LearningCSharp
             /* var result = Calculator.Add(4, 5);
              Console.WriteLine(result); */
 
-            var dataTypes = new DataTypes();
-            // dataTypes.Arrays();
-            dataTypes.Strings();
+            /* var dataTypes = new DataTypes();
+            dataTypes.Arrays();
+            dataTypes.Strings(); */
 
+            var method = ShippingMethod.Express;
+            Console.WriteLine((int)method);
+
+            var methodId = 2;
+            Console.WriteLine((ShippingMethod)methodId);
+
+            Console.WriteLine(method.ToString());
+
+            var methodName = "Express";
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
         }
       
     }
