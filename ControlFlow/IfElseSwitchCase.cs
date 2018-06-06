@@ -33,7 +33,23 @@ namespace LearningCSharp.ControlFlow
 
         public void CaseSwitch()
         {
-            
+            var season = Season.Autumn;
+
+            switch (season)
+            {
+                case Season.Autumn:
+                case Season.Spring:
+                    Console.WriteLine("It's autumn or spring and a beatuful season.");
+                    break;
+
+                case Season.Summer:
+                    Console.WriteLine("Its summer. The perfect season to go to the beach.");
+                    break;
+
+                default:
+                    Console.WriteLine("I do not understand that season.");
+                    break;
+            }
 
         }
 

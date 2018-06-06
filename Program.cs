@@ -37,8 +37,9 @@ namespace LearningCSharp
             var methodName = "Express";
             var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName); */
 
-            var hour = new IfElseSwitchCase();
-            hour.IfElse();
+            var controlFlow = new IfElseSwitchCase();
+            controlFlow.IfElse();
+            controlFlow.CaseSwitch();
 
         }
       
