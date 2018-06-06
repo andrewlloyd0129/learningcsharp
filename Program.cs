@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using LearningCSharp.ControlFlow;
 using LearningCSharp.LearningClasses;
 using LearningCSharp.MiscItems;
 
@@ -25,7 +26,7 @@ namespace LearningCSharp
             dataTypes.Arrays();
             dataTypes.Strings(); */
 
-            var method = ShippingMethod.Express;
+            /* var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
 
             var methodId = 2;
@@ -34,7 +35,11 @@ namespace LearningCSharp
             Console.WriteLine(method.ToString());
 
             var methodName = "Express";
-            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
+            var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName); */
+
+            var hour = new IfElseSwitchCase();
+            hour.IfElse();
+
         }
       
     }
